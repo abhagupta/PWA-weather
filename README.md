@@ -13,9 +13,9 @@ git clone https://github.com/abhagupta/PWA-weather.git pwa-weather
 cd pwa-weather
 npm install
 npm start
-Browse http://localhost:8000
-
 ```
+Browse http://localhost:8000/
+
 # Live app
 https://weather-pwa.herokuapp.com/
 
