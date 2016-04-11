@@ -15,3 +15,5 @@ npm install
 npm start
 
 ```
+# Live app
+https://weather-pwa.herokuapp.com/
